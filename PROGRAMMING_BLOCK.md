@@ -37,10 +37,10 @@
 - TOPIC: built-in variables
 - ASSIGNMENT: make the `ellipse` size change dynamically based on `mouseX` and `mouseY`.
 
-- ASSIGNMENT: run an example and change something in it
-- ASSIGNMENT: draw something complex that is composed of simple shapes
-- ASSIGNMENT: parameterization: remove all numbers from your methods
-- ASSIGNMENT: make a crazy mouse pointer
+- OPTIONAL_ASSIGNMENT: run an example and change something in it
+- OPTIONAL_ASSIGNMENT: draw something complex that is composed of simple shapes
+- OPTIONAL_ASSIGNMENT: parameterization: remove all numbers from your methods
+- OPTIONAL_ASSIGNMENT: make a crazy mouse pointer
 
 - END_OF_DAY_ASSIGNMENT: combine shapes, colors, variables, and methods into a single dynamic non-figurative composition
 
@@ -62,10 +62,10 @@
     - 1D and 2D arrays ( example x + y coordinates )
 - ASSIGNMENT: use an array to store the x-coordinates of 10 rectangles. Make them move left over time.
 
-- ASSIGNMENT: print every keystroke to the terminal
-- ASSIGNMENT: do a thing once and then have a loop do it 1024 times
-- ASSIGNMENT: draw a pattern with a lot of shapes
-- ASSIGNMENT: draw 10 shapes which, one after the other, snaps to the current mouse x-position whenever the mouse is pressed
+- OPTIONAL_ASSIGNMENT: print every keystroke to the terminal
+- OPTIONAL_ASSIGNMENT: do a thing once and then have a loop do it 1024 times
+- OPTIONAL_ASSIGNMENT: draw a pattern with a lot of shapes
+- OPTIONAL_ASSIGNMENT: draw 10 shapes which, one after the other, snaps to the current mouse x-position whenever the mouse is pressed
 
 - END_OF_DAY_ASSIGNMENT: create a generative artwork using loops, arrays, conditionals, and randomness.
 
@@ -82,8 +82,8 @@
 - TOPIC: custom classes
 - ASSIGNMENT: design a `Ball` class with properties for position and speed. Create multiple instances and make them move independently.
 
-- ASSIGNMENT: make a doodle pad trace mouse movement with two different stroke sizes
-- ASSIGNMENT: create a program where you draw bouncing shapes using a class stored in an array
+- OPTIONAL_ASSIGNMENT: make a doodle pad trace mouse movement with two different stroke sizes
+- OPTIONAL_ASSIGNMENT: create a program where you draw bouncing shapes using a class stored in an array
 
 - END_OF_DAY_ASSIGNMENT: create an interactive sketch with multiple custom classes, including dynamic behavior ( e.g a mini ecosystem of bouncing objects ).
 
