@@ -1,4 +1,4 @@
-# CIIDIDP-ITP2024
+# CIID-ITP2024
 
 computers are changing,
 computing has changed,
