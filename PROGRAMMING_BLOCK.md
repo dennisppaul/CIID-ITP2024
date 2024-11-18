@@ -13,6 +13,7 @@
 #### BLOCK 01 "Variables+Methods+Shapes"
 
 - TOPIC: the environment
+    - opensource, ben fry + casey reas ( was also at IDII )
     - the sketch
     - play button, terminal, window, tabs
     - the reference
@@ -92,14 +93,15 @@
 - TOPIC: ( built-in ) libraries ( e.g PDF Export or Serial )
 - ASSIGNMENT: export a simple drawing as a PDF file.
 - TOPIC: contributed libraries
+    - GUIs with *controlP5*
     - sounds with *Wellen*
 - ASSIGNMENT: add background music or sound effects to your sketch using a sound library.
 - TOPIC: pixel ops
     - `loadPixels()`, `pixels[]`, `updatePixels()`
 - ASSIGNMENT: create an effect that inverts the colors of an image or screen using pixel operations.
 - TOPIC: advanced drawing
-    - vertex
-    - translate/scale/push/pop
+    - shape + vertex
+    - translate + rotate + scale + push/pop
     - offscreen drawing with `PGraphics`
 - ASSIGNMENT: use `translate` and `rotate` to create a windmill animation.
 - TOPIC: load + save data
