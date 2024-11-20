@@ -1,5 +1,5 @@
 PImage picture;
-boolean mouseMoved = false;
+boolean hasMouseMoved = false;
 
 void setup() {
   size(800,800);
@@ -8,12 +8,12 @@ void setup() {
 
 void draw() {
   imageMode(CENTER);
-  if (mouseMoved) {
+  if (hasMouseMoved) {
     image(picture, mouseX, mouseY, picture.width, picture.height);
   }
 }
 
 void mouseMoved() {
   rotate(radians(random(-5,5)));
-  mouseMoved = true;
+  hasMouseMoved = true;
 }
